@@ -152,3 +152,7 @@ media/
 build_tests/
 yap_testing
 html/img/img/
+
+# Файлы из задания
+/html/
+/blogicum/static_dev/
